@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/land/land:7.1.2/N2G47H/7.9.14:user/release-keys
+post-timestamp=1505321299
+pre-device=land
