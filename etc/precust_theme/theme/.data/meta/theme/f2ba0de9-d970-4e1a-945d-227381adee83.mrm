@@ -1,0 +1,117 @@
+{
+  "localId": "f2ba0de9-d970-4e1a-945d-227381adee83",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "73258ec53f31a0f70dfa8ad148a1439b1e1aed69",
+  "platform": 6,
+  "size": 3651631,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Ichigo Kywrosaki"
+  },
+  "designers": {
+    "fallback": "Ichigo Kywrosaki"
+  },
+  "titles": {
+    "zh_CN": "无界",
+    "bo_CN": "མཚམས་མེད།",
+    "zh_TW": "無界",
+    "ug_CN": "چەكسىز",
+    "en_US": "Rounded",
+	"ru_RU": "Закругленная",
+	"uk_UA": "Закруглена",
+	"be_BY": "Закругленая"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.png",
+      "preview_launcher_0.png",
+      "preview_launcher_1.png",
+      "preview_statusbar_0.png",
+      "preview_statusbar_1.png",
+      "preview_contact_0.png",
+      "preview_mms_0.png",
+      "preview_mms_1.png",
+      "preview_icons_small_0.jpg",
+      "preview_icons_0.jpg"
+    ],
+    "en_US": [
+      "en_US_lockscreen_0.png",
+      "en_US_launcher_0.png",
+      "en_US_launcher_1.png",
+      "en_US_statusbar_0.png",
+      "en_US_contact_0.png",
+      "en_US_mms_0.png",
+      "en_US_mms_1.png"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.png",
+      "preview_launcher_0.png",
+      "preview_launcher_1.png",
+      "preview_statusbar_0.png",
+      "preview_statusbar_1.png",
+      "preview_contact_0.png",
+      "preview_mms_0.png",
+      "preview_mms_1.png",
+      "preview_icons_0.jpg"
+    ],
+    "en_US": [
+      "en_US_lockscreen_0.png",
+      "en_US_launcher_0.png",
+      "en_US_launcher_1.png",
+      "en_US_statusbar_0.png",
+      "en_US_contact_0.png",
+      "en_US_mms_0.png",
+      "en_US_mms_1.png"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [],
+  "subResources": [
+    {
+      "localId": "d5f8dd90-8296-4791-af8f-2ea8d1f1d731",
+      "resourceCode": "lockscreen",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "2e81dde6-ed42-4fb2-b0d5-e303ef4d902a",
+      "resourceCode": "wallpaper",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "b7715fd1-3b12-49ce-8bf2-5c30757784ce",
+      "resourceCode": "launcher",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ce9f5178-5e1e-4746-abed-5b2da9d971dd",
+      "resourceCode": "framework-miui-res",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    },
+    {
+      "localId": "ea998da7-ccc3-4acd-b824-522c1b4c466d",
+      "resourceCode": "icons",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}

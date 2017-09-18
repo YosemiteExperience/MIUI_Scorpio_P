@@ -1,0 +1,64 @@
+{
+  "localId": "b7715fd1-3b12-49ce-8bf2-5c30757784ce",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "9ecc68a90d4dfe9d2e5701b2ac10de95d7ec263d",
+  "platform": 6,
+  "size": 19702,
+  "updatedTime": 0,
+  "version": "1.0",
+  "authors": {
+    "fallback": "Ichigo Kywrosaki"
+  },
+  "designers": {
+    "fallback": "Ichigo Kywrosaki"
+  },
+  "titles": {
+    "zh_CN": "无界",
+    "bo_CN": "མཚམས་མེད།",
+    "zh_TW": "無界",
+    "ug_CN": "چەكسىز",
+    "en_US": "Rounded",
+	"ru_RU": "Закругленная",
+	"uk_UA": "Закруглена",
+	"be_BY": "Закругленая"
+  },
+  "descriptions": {},
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_launcher_0.png",
+      "preview_launcher_1.png"
+    ],
+    "en_US": [
+      "en_US_launcher_0.png",
+      "en_US_launcher_1.png"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_launcher_0.png",
+      "preview_launcher_1.png"
+    ],
+    "en_US": [
+      "en_US_launcher_0.png",
+      "en_US_launcher_1.png"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "f2ba0de9-d970-4e1a-945d-227381adee83",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": null
+}
