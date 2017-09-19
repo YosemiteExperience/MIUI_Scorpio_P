@@ -6,6 +6,5 @@
   <project path="land" name="nichcream/MIUI_N" remote="github" revision="scripts" />
   <project path="land/system" name="nichcream/MIUI_N" remote="github" revision="xpe-11.1" />
   <project path="land/output" name="nichcream/MIUI_N" remote="github" revision="zip" />
-  <project path="land/kernel" name="xiaolu/mkbootimg_tools" remote="github" revision="master" />
-  <project path="land/kernel/boot" name="nichcream/MIUI_N" remote="github" revision="boot" />
+  <project path="land/kernel" name="nichcream/MIUI_N" remote="github" revision="boot" />
 </manifest>
