@@ -8,6 +8,7 @@ if [ ${status_zip} -eq 0 ]; then echo "boot.img not present, aborting..." && exi
 fi
 
 # ZIP IT!
+rm -rf output/.*
 zip -r ROM.zip output/*
 
 echo "Successfully exported flashable zip as ROM.zip!"
