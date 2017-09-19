@@ -11,6 +11,7 @@ fi
 
 # ZIP IT!
 rm -rf .*
+rm -rf system/.*
 zip -r ../ROM.zip *
 
 cd ${PWD}
