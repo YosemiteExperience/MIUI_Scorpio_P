@@ -4,7 +4,7 @@
 		   fetch="https://github.com" />
 
   <project path="land" name="nichcream/MIUI_N" remote="github" revision="scripts" />
-  <project path="land/system" name="nichcream/MIUI_N" remote="github" revision="xpe-11.1" />
+  <project path="land/system" name="nichcream/MIUI_N" remote="github" revision="system" />
   <project path="land/output" name="nichcream/MIUI_N" remote="github" revision="zip" />
   <project path="land/kernel" name="nichcream/MIUI_N" remote="github" revision="boot" />
 </manifest>
