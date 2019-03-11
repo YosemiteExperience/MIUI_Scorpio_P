@@ -3,8 +3,8 @@
   <remote  name="github"
 		   fetch="https://github.com" />
 
-  <project path="land" name="nichcream/MIUI_N" remote="github" revision="scripts" />
-  <project path="land/system" name="nichcream/MIUI_N" remote="github" revision="system" />
-  <project path="land/output" name="nichcream/MIUI_N" remote="github" revision="zip" />
-  <project path="land/kernel" name="nichcream/MIUI_N" remote="github" revision="boot" />
+  <project path="scorpio" name="YosemiteExperience/MIUI_Scorpio_P" remote="github" revision="scripts" />
+  <project path="scorpio/system" name="YosemiteExperience/MIUI_Scorpio_P" remote="github" revision="system" />
+  <project path="scorpio/output" name="YosemiteExperience/MIUI_Scorpio_P" remote="github" revision="zip" />
+  <project path="scorpio/kernel" name="YosemiteExperience/MIUI_Scorpio_P" remote="github" revision="boot" />
 </manifest>
