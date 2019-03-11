@@ -29,10 +29,10 @@ $ mkdir WORKSPACE
 $ cd WORKSPACE
 
 # Install Repo in the created directory
-$ repo init -u https://github.com/nichcream/MIUI_N.git -b manifest
+$ repo init -u https://github.com/YosemiteExperience/MIUI_Scorpio_P.git -b manifest
 
 # Or to initialize a shallow clone to greatly reduce sizes
-$ repo init -u https://github.com/nichcream/MIUI_N.git -b manifest --depth=1
+$ repo init -u https://github.com/YosemiteExperience/MIUI_Scorpio_P.git -b manifest --depth=1
 ```
 
 ### Downloading all the files to local ###
